@@ -10,13 +10,27 @@ tags:
   - Life
   - Friendship
 ---
-- Finding someone
-- The third wheel of friendship
-- With friends but alone
-- The vociferous silence
-- The scare of loss and the desperate need to change
-- When all that is wrong with the world is you, how do you change yourself?
+
+## Finding someone
+
+ 
+
+## The third wheel of friendship
+
+ 
+
+## With friends but alone
+
+ 
+
+## The vociferous silence
+
+ 
+
+## The scare of loss and the desperate need to change
+
+ When all that is wrong with the world is you, how do you change yourself?
 - Finding someone again
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk2NzMzODQ5LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTE1MTMxNzIyMywtMjA4ODc0NjYxMl19
 -->
