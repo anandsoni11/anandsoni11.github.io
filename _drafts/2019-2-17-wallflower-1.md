@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thoughts of a wallflower #1 - Friends
+title: Thoughts of a wallflower #1 - Friendship
 date: 2019-2-17
 description:
 image: /assets/images/placeholder-7.jpg
@@ -37,5 +37,5 @@ tags:
 ## Finding someone again
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNjY4NzExXX0=
+eyJoaXN0b3J5IjpbMTM1Mjc3MTcxOCwtNDI2Njg3MTFdfQ==
 -->
