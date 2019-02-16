@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reflections #1 - The friendship that teaches
+title: Thoughts of a wallflower #1 - Friends
 date: 2019-2-17
 description:
 image: /assets/images/placeholder-7.jpg
@@ -10,7 +10,6 @@ tags:
   - Life
   - Friendship
 ---
-
 ## Finding someone
 
  
@@ -29,8 +28,14 @@ tags:
 
 ## The scare of loss and the desperate need to change
 
- When all that is wrong with the world is you, how do you change yourself?
-- Finding someone again
+ 
+
+## When all that is wrong with the world is you, how do you change yourself?
+
+ 
+
+## Finding someone again
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTMxNzIyMywtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTQyNjY4NzExLC0yMDg4NzQ2NjEyXX0=
 -->
