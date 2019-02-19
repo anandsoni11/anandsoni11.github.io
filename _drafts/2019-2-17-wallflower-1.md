@@ -39,7 +39,7 @@ It has been the story of my life so far that my silent nature has always kept me
 Having said that, lets talk about friendship again. Sometimes, even your best friends will find it hard to accept the quiet and silent you. And they are not to be blamed. When you don't speak much, it is very hard for anyone (closeness is irrelevant here) to figure you out. Its very hard to figure out what's going on inside that head of yours. A good friend will try to keep up with you and accept you for as long as he/she can. But, there comes a time when even the best of the best give up (on you!). Personally, I have had altercations with my best friend about the way I am. And sometimes, when no one in the world understands the vociferous silence inside you, you are left all alone. And, truly speaking, its a scary experience. And since you overthink, you reach a point where you see yourself as your own enemy. You see yourself as the reason why nobody wants to stay in your life. Why nobody wants you! My friend, a word of advice, never hate yourself for what you are. The key to happiness is to accept yourself first and then discover yourself in the friends that you make. Accept yourself.
 
 ## The scare of loss and the desperate need to change
-
+Friendship can work in mysterious ways. Just like life constantly teaches you things in unexpected ways, friendship teaches you in its own unique ways. If
 
 ## When all that is wrong with the world is you, how do you change yourself?
  
@@ -47,6 +47,6 @@ Having said that, lets talk about friendship again. Sometimes, even your best fr
 ## Finding someone again
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMjAxMDY1MiwtNjkxODEyMzM3LDEzNT
-I3NzE3MTgsLTQyNjY4NzExXX0=
+eyJoaXN0b3J5IjpbMzE0MTY1ODAyLC04MjIwMTA2NTIsLTY5MT
+gxMjMzNywxMzUyNzcxNzE4LC00MjY2ODcxMV19
 -->
