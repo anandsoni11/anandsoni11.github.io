@@ -47,14 +47,14 @@ But as the saying goes :
 
 > If you don't like where you are, move. You are not a tree.
 
-And that's what you decide to do. By this point, the world has already hurt you so much that instead of driving closer to the world, you indulge into isolation. You speak even less and when you look around, the world and everyone that you hold dear in it looks happier without you. Effectively, what started as a process to change yourself into a "better", talkative person, has already turned into a realization that everyone has let go of you and so should you. Sometimes, the world is better with you in it and sometimes without. Sometimes, th
+And that's what you decide to do. By this point, the world has already hurt you so much that instead of driving closer to the world, you indulge into isolation. You speak even less and when you look around, the world and everyone that you hold dear in it looks happier without you. Effectively, what started as a process to change yourself into a "better", talkative person, has already turned into a realization that everyone has let go of you and so should you. Sometimes, the world is better with you in it and sometimes without. Sometimes, the happiness of people you love is primary and yours, of course, secondary. So, give the world what it wants from you. Spread more smiles!
 
 ## When all that is wrong with the world is you, how do you change yourself?
- 
+ Okay, let me contradict myself a bit here. Not everyone that sets on the journ
 
 ## Finding someone again
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzQ0NTM2OTUsLTgyMjAxMDY1MiwtNj
-kxODEyMzM3LDEzNTI3NzE3MTgsLTQyNjY4NzExXX0=
+eyJoaXN0b3J5IjpbMTc3ODU5NjA2NCwtODIyMDEwNjUyLC02OT
+E4MTIzMzcsMTM1Mjc3MTcxOCwtNDI2Njg3MTFdfQ==
 -->
