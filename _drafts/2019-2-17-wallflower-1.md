@@ -41,7 +41,11 @@ Having said that, lets talk about friendship again. Sometimes, even your best fr
 ## The scare of loss and the desperate need to change
 Friendship can work in mysterious ways. Just like life constantly teaches you things in unexpected ways, friendship teaches you in its own unique ways. Sometimes, you make friends that become indispensable in life. You just can't imagine your life without them and hence the thought of losing them becomes nightmarish. Now, imagine a heated altercation with your best friend. The scenario : you speak so little, you hardly socialize with anyone else and your friend is mighty pissed off at you for that behavior/nature of yours. The words that got exchanged include phrases like : *you need to introspect*, *what will you do if I am not there from tomorrow*, *you are upset 365 days a year*, *I will never initiate conversations with you if you don't change* and so on. Anyone else telling you those things can be easily ignored. But, when that comes from someone who means everything to you then it hurts. A lot. 
 
-And after all that, you begin thinking. You think that something is wrong with you. Even your best friend can't bear with you and doesn't want you anymore. You get scared that you might lose him/her. And, inadvertently, you begin that introspection and ask yourself this : what's so wrong with me that I am unloveable and unpleasant to this extreme? And in no time
+And after all that, you begin thinking. You think that something is wrong with you. Even your best friend can't bear with you and doesn't want you anymore. You get scared that you might lose him/her. And, inadvertently, you begin that introspection and ask yourself this : what's so wrong with me that I am unloveable and unpleasant to this extreme? And in no time, you figure that you will be desperate if you don't try to change yourself. You will lose everything that holds dear in your life. Guess what, maybe you have already lost. 
+
+But as the saying goes : 
+> If you don't like where you are, move. You are not a tree.
+
 
 ## When all that is wrong with the world is you, how do you change yourself?
  
@@ -49,6 +53,6 @@ And after all that, you begin thinking. You think that something is wrong with y
 ## Finding someone again
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MTIxNzUwMSwtODIyMDEwNjUyLC02OT
+eyJoaXN0b3J5IjpbLTU3MTI5MTU3NywtODIyMDEwNjUyLC02OT
 E4MTIzMzcsMTM1Mjc3MTcxOCwtNDI2Njg3MTFdfQ==
 -->
