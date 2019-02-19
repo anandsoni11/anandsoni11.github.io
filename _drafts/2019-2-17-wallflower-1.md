@@ -50,11 +50,13 @@ But as the saying goes :
 And that's what you decide to do. By this point, the world has already hurt you so much that instead of driving closer to the world, you indulge into isolation. You speak even less and when you look around, the world and everyone that you hold dear in it looks happier without you. Effectively, what started as a process to change yourself into a "better", talkative person, has already turned into a realization that everyone has let go of you and so should you. Sometimes, the world is better with you in it and sometimes without. Sometimes, the happiness of people you love is primary and yours, of course, secondary. So, give the world what it wants from you. Spread more smiles!
 
 ## When all that is wrong with the world is you, how do you change yourself?
- Okay, let me contradict myself a bit here. Not everyone that sets on the journey to change and become "better" gives up and enters into isolation. No! There are people who try and hold on in the hope that one day, things will change and one day they will again be eligible and worthy of that friendship they lost. But, again, how do you change? Where do you even begin?
+ Okay, let me contradict myself a bit here. Not everyone that sets on the journey to change and become "better" gives up and enters into isolation. No! There are people who try and hold on in the hope that one day, things will change and one day they will again be eligible and worthy of that friendship they lost. But, again, how do you change? Where do you even begin? Because when you begin, the world has convinced you that you are what is wrong with it! Here, I am reminded of a quote that I came up with :
+
+> It is always an uphill battle. The one that you fight against yourself.
 
 ## Finding someone again
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjAyMDM1NzUsLTgyMjAxMDY1MiwtNj
-kxODEyMzM3LDEzNTI3NzE3MTgsLTQyNjY4NzExXX0=
+eyJoaXN0b3J5IjpbODExNTI4NDM1LC04MjIwMTA2NTIsLTY5MT
+gxMjMzNywxMzUyNzcxNzE4LC00MjY2ODcxMV19
 -->
