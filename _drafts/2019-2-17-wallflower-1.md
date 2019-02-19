@@ -44,8 +44,10 @@ Friendship can work in mysterious ways. Just like life constantly teaches you th
 And after all that, you begin thinking. You think that something is wrong with you. Even your best friend can't bear with you and doesn't want you anymore. You get scared that you might lose him/her. And, inadvertently, you begin that introspection and ask yourself this : what's so wrong with me that I am unloveable and unpleasant to this extreme? And in no time, you figure that you will be desperate if you don't try to change yourself. You will lose everything that holds dear in your life. Guess what, maybe you have already lost. 
 
 But as the saying goes : 
+
 > If you don't like where you are, move. You are not a tree.
 
+And that's what you decide to do. By this point, the world has already hurt you so much that instead of driving closer to the world, you indulge into isolation. You speak even less and when you look around, the world and everyone that you hold dear in it looks happier without you. Effectively, wh
 
 ## When all that is wrong with the world is you, how do you change yourself?
  
@@ -53,6 +55,6 @@ But as the saying goes :
 ## Finding someone again
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MTI5MTU3NywtODIyMDEwNjUyLC02OT
-E4MTIzMzcsMTM1Mjc3MTcxOCwtNDI2Njg3MTFdfQ==
+eyJoaXN0b3J5IjpbLTE3MDU5NTgyNzAsLTgyMjAxMDY1MiwtNj
+kxODEyMzM3LDEzNTI3NzE3MTgsLTQyNjY4NzExXX0=
 -->
