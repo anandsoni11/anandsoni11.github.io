@@ -39,7 +39,9 @@ It has been the story of my life so far that my silent nature has always kept me
 Having said that, lets talk about friendship again. Sometimes, even your best friends will find it hard to accept the quiet and silent you. And they are not to be blamed. When you don't speak much, it is very hard for anyone (closeness is irrelevant here) to figure you out. Its very hard to figure out what's going on inside that head of yours. A good friend will try to keep up with you and accept you for as long as he/she can. But, there comes a time when even the best of the best give up (on you!). Personally, I have had altercations with my best friend about the way I am. And sometimes, when no one in the world understands the vociferous silence inside you, you are left all alone. And, truly speaking, its a scary experience. And since you overthink, you reach a point where you see yourself as your own enemy. You see yourself as the reason why nobody wants to stay in your life. Why nobody wants you! My friend, a word of advice, never hate yourself for what you are. The key to happiness is to accept yourself first and then discover yourself in the friends that you make. Accept yourself.
 
 ## The scare of loss and the desperate need to change
-Friendship can work in mysterious ways. Just like life constantly teaches you things in unexpected ways, friendship teaches you in its own unique ways. Sometimes, you make friends that become indispensable in life. You just can't imagine your life without them and hence the thought of losing them becomes nightmarish. Now, imagine a heated altercation with your best friend. The scenario : you speak so little, you hardly socialize with anyone else and your friend is mighty pissed off at you for that behavior/nature of yours. The words that got exchanged include phrases like : *you need to introspect*, *what will you do if I am not there from tomorrow*, *you are upset 365 days a year*, *I will never initiate conversations with you if you don't* and so on. 
+Friendship can work in mysterious ways. Just like life constantly teaches you things in unexpected ways, friendship teaches you in its own unique ways. Sometimes, you make friends that become indispensable in life. You just can't imagine your life without them and hence the thought of losing them becomes nightmarish. Now, imagine a heated altercation with your best friend. The scenario : you speak so little, you hardly socialize with anyone else and your friend is mighty pissed off at you for that behavior/nature of yours. The words that got exchanged include phrases like : *you need to introspect*, *what will you do if I am not there from tomorrow*, *you are upset 365 days a year*, *I will never initiate conversations with you if you don't change* and so on. Anyone else telling you those things can be easily ignored. But, when that comes from someone who means everything to you then it hurts. A lot. 
+
+And after all that, you begin thinking. You think that something is wrong with you. Even your best friend can 
 
 ## When all that is wrong with the world is you, how do you change yourself?
  
@@ -47,6 +49,6 @@ Friendship can work in mysterious ways. Just like life constantly teaches you th
 ## Finding someone again
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NTA3NDU1OSwtODIyMDEwNjUyLC02OT
-E4MTIzMzcsMTM1Mjc3MTcxOCwtNDI2Njg3MTFdfQ==
+eyJoaXN0b3J5IjpbODI5NzI2MTg4LC04MjIwMTA2NTIsLTY5MT
+gxMjMzNywxMzUyNzcxNzE4LC00MjY2ODcxMV19
 -->
