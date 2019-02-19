@@ -54,11 +54,13 @@ And that's what you decide to do. By this point, the world has already hurt you 
 
 > It is always an uphill battle. The one that you fight against yourself.
 
-Why is it always uphill? Because you always rise! In an effort to become a changed and better human being, you fight yourself and you rise. Or so the world sees it. Ultimately, in both cases : changing yourself or letting go, you end up gi
+Why is it always uphill? Because you always rise! In an effort to become a changed and better human being, you fight yourself and you rise. Or so the world sees it. Ultimately, in both cases : changing yourself or letting go, you end up giving the word exactly what it wants. The world wins either ways! Food for thought : when it all ends, who wins and who loses when you are fighting against yourself?
+
+In an ideal world though (where you are allo)
 
 ## Finding someone again
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk4NjczNTQsLTgyMjAxMDY1MiwtNjkxOD
-EyMzM3LDEzNTI3NzE3MTgsLTQyNjY4NzExXX0=
+eyJoaXN0b3J5IjpbMTA4NjYyMzc1MCwtODIyMDEwNjUyLC02OT
+E4MTIzMzcsMTM1Mjc3MTcxOCwtNDI2Njg3MTFdfQ==
 -->
