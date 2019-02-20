@@ -59,8 +59,9 @@ Why is it always uphill? Because you always rise! In an effort to become a chang
 In an ideal world though (where you are allowed to be happy no matter how less you talk), you should never believe the world and you should never try to change what you are. Be yourself! That's one of the most cliched phrases ever but, may be it has some truth to it. If you can be yourself, then you don't have to worry about the question : *where do I even begin?* Utopian thought? 
 
 ## Finding someone again
-
+So here we are! You feel lonely, find someone, get left alone and life comes back full ci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjYwMzU0MjQsLTgyMjAxMDY1MiwtNj
-kxODEyMzM3LDEzNTI3NzE3MTgsLTQyNjY4NzExXX0=
+eyJoaXN0b3J5IjpbLTg0MzI5ODY0LC0xMTY2MDM1NDI0LC04Mj
+IwMTA2NTIsLTY5MTgxMjMzNywxMzUyNzcxNzE4LC00MjY2ODcx
+MV19
 -->
