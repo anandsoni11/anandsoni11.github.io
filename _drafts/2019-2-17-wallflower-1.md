@@ -59,9 +59,11 @@ Why is it always uphill? Because you always rise! In an effort to become a chang
 In an ideal world though (where you are allowed to be happy no matter how less you talk), you should never believe the world and you should never try to change what you are. Be yourself! That's one of the most cliched phrases ever but, may be it has some truth to it. If you can be yourself, then you don't have to worry about the question : *where do I even begin?* Utopian thought? 
 
 ## Finding someone again
-So here we are! You feel lonely, find someone, get left alone and life comes back full circle. When you have true feelings for someone (a friend, love, family), losing them is one of the hardest things to go through in life. 
+So here we are! You feel lonely, find someone, get left alone and life comes back full circle. When you have true feelings for someone (a friend, love, family), losing them is one of the hardest things to go through in life. But, it gets worse. It gets worse when you lose them because they reject you and leave you alone. Yes, and evidently, nothing hurts emotionally more than that. Trust me. So, the question is how do you begin ***again***? 
+
+Do 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc4NzE2MzcwLC0xMTY2MDM1NDI0LC04Mj
-IwMTA2NTIsLTY5MTgxMjMzNywxMzUyNzcxNzE4LC00MjY2ODcx
-MV19
+eyJoaXN0b3J5IjpbMjY3NzQyMiwtMTE2NjAzNTQyNCwtODIyMD
+EwNjUyLC02OTE4MTIzMzcsMTM1Mjc3MTcxOCwtNDI2Njg3MTFd
+fQ==
 -->
