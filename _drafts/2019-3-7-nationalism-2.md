@@ -10,10 +10,14 @@ tags:
  - Life  
  - Nationalism  
 ---    
+## Recent Events
+
 ## The Great War
+
 ## The Precedents
+
 ## The Ultimate Winning Strategy?  
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDAyNjg5MzhdfQ==
+eyJoaXN0b3J5IjpbLTE4MTc1MzU4NTJdfQ==
 -->
