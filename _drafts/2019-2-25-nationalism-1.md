@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On Nationalism
+title: On Nationalism - #1
 date: 2019-2-25
 description:
 image: /assets/images/placeholder-3.jpg
@@ -17,5 +17,5 @@ tags:
 ## The Great War
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQwOTg1NjQwLC0yNDY5MjIzNTJdfQ==
+eyJoaXN0b3J5IjpbMjA1MzY5MDg5OSwtMjQ2OTIyMzUyXX0=
 -->
