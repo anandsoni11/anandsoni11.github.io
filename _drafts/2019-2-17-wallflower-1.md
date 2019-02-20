@@ -61,9 +61,9 @@ In an ideal world though (where you are allowed to be happy no matter how less y
 ## Finding someone again
 So here we are! You feel lonely, find someone, get left alone and life comes back full circle. When you have true feelings for someone (a friend, love, family), losing them is one of the hardest things to go through in life. But, it gets worse. It gets worse when you lose them because they reject you and leave you alone. Yes, and evidently, nothing hurts emotionally more than that. Trust me. So, the question is how do you begin ***again***? 
 
-Do 
+Do you have the strength to find someone again? Will you ever feel like getting so close to someone again? 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY3NzQyMiwtMTE2NjAzNTQyNCwtODIyMD
-EwNjUyLC02OTE4MTIzMzcsMTM1Mjc3MTcxOCwtNDI2Njg3MTFd
-fQ==
+eyJoaXN0b3J5IjpbMTQ2MDIwNjM0NiwtMTE2NjAzNTQyNCwtOD
+IyMDEwNjUyLC02OTE4MTIzMzcsMTM1Mjc3MTcxOCwtNDI2Njg3
+MTFdfQ==
 -->
