@@ -17,8 +17,8 @@ Like any of us, I have been on a quest to find true friendship in life. Even a p
 
 Its a tricky thing. Friendship. Even hard sometimes. Unlike people who socialize a lot (the so called extroverts), friendship to me is a very serious matter. Reason? When you have only one (or two) close friend(s) and not an array of "friends" to be with, you realize how important that friendship is in your life. You are closer to them than you are to anybody else. The level of emotional connect is usually high. And before you realize, they become your family. Now, friendship has its own bright and dark moments. Friends laugh together, share things, share stories and emotions, fight with each other, get mad at each other, cry together, work together and with some extreme luck live together. But, whatever they do, if the friendship is true, friends never really part. Friends are forever, indeed. 
 
-## The third wheel of friendship
-As I said, friendship is tricky. Sometimes hard. One of the instances when it gets really tough is when you become a third wheel. Imagine a scenario where you become close friend to one or both of two best friends. Since you are new to the group (and you always will be), more often than not, you may feel like a third wheel. A third wheel is a friend who is not vital to making plans or even conversations. A third wheel is mostly the last informed, hardly consulted and dispensable friend of the group. From a personal experience, this is the hardest friendship scenario. It can be emotionally taxing and exhausting. Now, add to this the fact that you (the third wheel) are also an introvert and have hardly any other friend(s). Bam! You have the perfect cocktail and you are in for an emotional roller coaster ride.
+## Found (the third wheel of) friendship?
+As I said, friendship is tricky. Sometimes hard. One of the instances when it gets really tough is when you become a third wheel. Imagine a scenario where you become close friend to one or both of two best friends. Since you are new to the group (and you always will be), more often than not, you may feel like a third wheel. A third wheel is a friend who is not vital to making plans or even making conversations. A third wheel is mostly the last informed, hardly consulted and dispensable friend of the group. From a personal experience, this is the hardest friendship scenario. It can be emotionally taxing and exhausting. Now, add to this the fact that you (the third wheel) are also an introvert and have hardly any other friend(s). Bam! You have the perfect cocktail and you are in for an emotional roller coaster ride.
 
 Now, having already stressed on the vitality of friendship, I must also say that in today's world where recklessness has taken over emotions, some people are holding even more tightly to the gift of friendship that they have in life. It is truly said : 
 
@@ -63,7 +63,8 @@ So here we are! You feel lonely, find someone, get left alone and life comes bac
 
 Do you have the strength to find someone again? Will you ever feel like getting so close to someone again? There is no simple answer. Sometimes, you just meet eyes with someone and know that things are going to work out. All other times, you have to work hard to make things work. Now, you can't keep waiting to meet someone magically. Everything that you do in life needs work. But, again, friends and friendship are supposed to make life a little bit easier and not tougher than it was without them. I believe friendship should be easy on some levels. It has to be natural. If there is a constant fear of losing someone, constant hard work to remain friends with someone and constant gloominess then it is not worth it to hang on to that. Now, it is much easier said than done. Especially, if you are an emotional and ethical person, it is hard to let go of someone who you got very close to. Just like you never turn your back to family, you can't turn your back to your closest friends and allies even when they do. No doubt, it can make life an unpleasant experience for you. But again, what is life without harsh and devastating experiences?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMjk5Njk1OSwxNDE1NDc0ODQ4LDE0Nj
-AyMDYzNDYsLTExNjYwMzU0MjQsLTgyMjAxMDY1MiwtNjkxODEy
-MzM3LDEzNTI3NzE3MTgsLTQyNjY4NzExXX0=
+eyJoaXN0b3J5IjpbMTQ0MjA5MDkwNCwxMjMyOTk2OTU5LDE0MT
+U0NzQ4NDgsMTQ2MDIwNjM0NiwtMTE2NjAzNTQyNCwtODIyMDEw
+NjUyLC02OTE4MTIzMzcsMTM1Mjc3MTcxOCwtNDI2Njg3MTFdfQ
+==
 -->
