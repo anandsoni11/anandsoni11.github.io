@@ -50,7 +50,7 @@ But as the saying goes :
 And that's what you decide to do. By this point, the world has already hurt you so much that instead of driving closer to the world, you indulge into isolation. You speak even less and when you look around, the world and everyone that you hold dear in it looks happier without you. Effectively, what started as a process to change yourself into a "better", talkative person, has already turned into a realization that everyone has let go of you and so should you. Sometimes, the world is better with you in it and sometimes without. Sometimes, the happiness of people you love is primary and yours, of course, secondary. So, give the world what it wants from you. Spread more smiles!
 
 ## When all that is wrong with the world is you, how do you change yourself?
- Okay, let me contradict myself a bit here. Not everyone that sets on the journey to change and become "better" gives up and enters into isolation. No! There are people who try and hold on in the hope that one day, things will change and one day they will again be eligible and worthy of that friendship they lost. But, again, how do you change? Where do you even begin? Because when you begin, the world has convinced you that you are what is wrong with it! Here, I am reminded of a quote that I came up with :
+ Okay, let me contradict myself a bit here. Not everyone that sets on the journey to change and become "better" gives up and enters into isolation. No! There are people who try and hold on with the hope that one day, things will change and one day they will again be eligible and worthy of that friendship they lost. But, again, how do you change? Where do you even begin? Because when you begin, the world has convinced you that you are what is wrong with it! Here, I am reminded of a quote that I came up with :
 
 > It is always an uphill battle. The one that you fight against yourself.
 
@@ -63,7 +63,7 @@ So here we are! You feel lonely, find someone, get left alone and life comes bac
 
 Do you have the strength to find someone again? Will you ever feel like getting so close to someone again? There is no simple answer. Sometimes, you just meet eyes with someone and know that things are going to work out. All other times, you have to work hard to make things work. Now, you can't keep waiting to meet someone magically. Everything that you do in life needs work. But, again, friends and friendship are supposed to make life a little bit easier and not tougher than it was without them. I believe friendship should be easy on some levels. It has to be natural. If there is a constant fear of losing someone, constant hard work to remain friends with someone and constant gloominess then it is not worth it to hang on to that. Now, it is much easier said than done. Especially, if you are an emotional and ethical person, it is hard to let go of someone who you got very close to. Just like you never turn your back to family, you can't turn your back to your closest friends and allies even when they do. No doubt, it can make life an unpleasant experience for you. But again, what is life without harsh and devastating experiences?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNTQ3NDg0OCwxNDYwMjA2MzQ2LC0xMT
-Y2MDM1NDI0LC04MjIwMTA2NTIsLTY5MTgxMjMzNywxMzUyNzcx
-NzE4LC00MjY2ODcxMV19
+eyJoaXN0b3J5IjpbMTIzMjk5Njk1OSwxNDE1NDc0ODQ4LDE0Nj
+AyMDYzNDYsLTExNjYwMzU0MjQsLTgyMjAxMDY1MiwtNjkxODEy
+MzM3LDEzNTI3NzE3MTgsLTQyNjY4NzExXX0=
 -->
