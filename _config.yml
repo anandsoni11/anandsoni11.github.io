@@ -1,7 +1,7 @@
 # Site/SEO settings
 url: "https://www.anandsoni.in"
 baseurl: ""
-google_analytics:
+google_analytics: UA-144192904-1
 name: "Anand Soni"
 title: "Thoughts. Insights. Life lessons."
 description: ""
