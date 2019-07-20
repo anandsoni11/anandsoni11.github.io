@@ -1,11 +1,11 @@
 # Site/SEO settings
 baseurl: ""
 google_analytics:
-name: "Anand Soni"
+name: "Thoughts. Insights. Life lessons."
 title: "Thoughts. Insights. Life lessons."
-description: "To pen down the incomprehensibly complex life experiences which will, otherwise, get lost in silence. Forever."
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+description: ""
+logo: 'assets/images/me1.png'
+favicon: 'assets/images/me1.png'
 include: ["_pages"]
 permalink: /:title/
 
