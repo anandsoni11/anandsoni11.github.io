@@ -10,7 +10,7 @@ comments: false
 
 <p><b><i>Thoughts. Insights. Life lessons.</i></b> was started by me <i>(Anand Soni)</i> back in 2016. Since then, it has gone through many changes and iterations.  Started as a personal blog, it was meant to be creative vent to all my thoughts and everything that life teaches every now and then.</p>
 
-<p>As a technologist, I have always been a believer in the power of open source and collaboration. And now, I am convinced that this blog needs to be open sourced as well. I have a vision to develop <b><i>Thoughts. Insights. Life lessons.</i></b> as a global platform where people all across the world can come, share their thoughts and insights about life (or anything that has the potential to <i>teach<i> the reader) and also learn from others' life experiences.</p>
+<p>As a technologist, I have always been a believer in the power of open source and collaboration. And now, I am convinced that this blog needs to be open sourced as well. I have a vision to develop <b><i>Thoughts. Insights. Life lessons.</i></b> as a global platform where people all across the world can come, share their thoughts and insights about life (or anything that has the potential to <i>teach</i> the reader) and also learn from others' life experiences.</p>
 
 <p>To bring this vision to reality, I need help. Your help. If you feel even a little inspired by the contents on this blog and if there is a little nudge inside you to share and teach, I invite you to share this widely and contribute!</p>
 
