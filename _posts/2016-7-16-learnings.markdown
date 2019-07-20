@@ -1,13 +1,14 @@
 ---
 layout: post
-title: One year. Such legacy. Much learning
+title: "One year. Such legacy. Much learning"
 date: 2016-7-16
 description:
-image: /assets/images/placeholder-10.jpg
+image: assets/images/8.jpg
 author: Anand Soni
-tags:
-  - Learnings
-  - Professional
+tags: [Learnings, Professional]
+featured: false
+hidden: false
+categories: [ Life Lessons, Corporate Life ]
 ---
 It all started (almost) a year ago, in August 2015. I was about to graduate and had decided to start my career with Intuit India (as a software engineer). Moving out from college to the (professional) world was momentous. It is metaphorical to a kid starting school with a clean slate in his bag, after a few years of playfulness and utter learning at home!
 
@@ -62,4 +63,4 @@ Each and every one of us has inhibitions and hesitations. The best thing about t
 
 And the people around me have only strengthened this learning. Fortunately so. More on inhibitions later!
 
-Looking back, I see twelve months of great learning. If anything, that's what that matters. The list doesn't end here, though. Of course, the post does! 
+Looking back, I see twelve months of great learning. If anything, that's what that matters. The list doesn't end here, though. Of course, the post does!

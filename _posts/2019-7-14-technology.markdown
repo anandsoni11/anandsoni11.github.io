@@ -1,16 +1,14 @@
 ---
 layout: post
-title: Technology And The Digital Alter Ego
+title: "Technology And The Digital Alter Ego"
 date: 2019-7-14
 description:
-image: /assets/images/placeholder-2.jpg
+image: assets/images/7.jpg
 author: Anand Soni
-tags:
-  - Technology
-  - Internet of Things
-  - Social Media
-  - Relationships
-  - Education
+tags: [Technology, Internet of Things, Social Media, Relationships, Education]
+featured: true
+hidden: false
+categories: [ Technology, Social Media, Education ]
 ---
 
 Recently, my brother decided to buy a new phone and I suggested him to get the Apple iPhone XR. Without much delay, he got it. While setting up, he enquired about his data. How all his contacts, messages and photos will transfer. And I had but one answer. Everything is going to sync! And if everything had synced, I would probably not be writing this today.

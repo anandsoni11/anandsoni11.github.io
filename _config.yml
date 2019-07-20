@@ -1,58 +1,72 @@
 # Site/SEO settings
-email: anand.92.soni@gmail.com
 baseurl: ""
-paginate: 12
-paginate_path: "/page/:num"
-permalink: /:year/:month/:day/:title/
 google_analytics:
+name: "Anand Soni"
+title: "Thoughts. Insights. Life lessons."
+description: "To pen down the incomprehensibly complex life experiences which will, otherwise, get lost in silence. Forever."
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/logo.png'
+include: ["_pages"]
+permalink: /:title/
 
-name: Anand Soni
-title: Thoughts. Insights. Life lessons.
-description: >
-  Pen down the incomprehensibly complex life experiences which will, otherwise, get lost in silence. Forever.
-url: http://anandsoni.in
-twitter_username: anandsonin
-default_img: /assets/images/seo.jpg
-social:
-  - name: twitter
-    url: https://twitter.com/anandsonin
-  - name: linkedin
-    url: https://www.linkedin.com/in/anand-soni-34846843/
-  - name: github
-    url: https://github.com/anandsoni11
-
-# Contact settings
-contact_img: /assets/images/placeholder-28.jpg
-formcarry: https://formcarry.com/s/a_r0zys-qZU
 
 # Disqus settings
 disqus: anandsoni11
 
 # MailChimp settings
-mailchimp_action: https://anandsoni.us20.list-manage.com/subscribe/post?u=3aa15cf4404b007d940ede115&amp;id=857d509c42
-mailchimp_input: b_3aa15cf4404b007d940ede115_857d509c42
+mailchimp-list: https://anandsoni.us20.list-manage.com/subscribe/post?u=3aa15cf4404b007d940ede115&amp;id=857d509c42
+#mailchimp_input: b_3aa15cf4404b007d940ede115_857d509c42
 
 # Author settings
-author:
-  - name: Anand Soni
-    bio: Born and raised in India, a technologist by profession, Anand Soni is a graduate in Computer Science from IIT Bombay.
-    url: http://anandsoni.in
+# Authors
+authors:
+  anand:
+    name: Anand Soni
+    display_name: Anand
+    gravatar:
+    email: anand.92.soni@gmail.com
+    web: https://www.anandsoni.in
+    twitter: https://twitter.com/anandsonin
+    description: ""
+
 
 # Build settings
-markdown: kramdown
+# Plugins
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-compress_html:
-  clippings: all
-  comments: all
-  startings: [html, head, body]
-exclude:
-  - node_modules
-  - .DS_Store
-  - barber.jpg
-  - Gemfile
-  - Gemfile.lock
-  - gulpfile.js
-  - package.json
-  - README.md
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+
+# Pagination
+paginate: 6
+paginate_path: /page:num/
+
+# Other
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+
+# Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
+adsense: "disabled"
+adsense-data-ad-client: ""
+adsense-data-ad-slot: ""
+
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "disabled"
+
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]

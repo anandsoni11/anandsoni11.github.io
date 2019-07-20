@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Leaders, illusions, mistakes.
+title: "Leaders, illusions, mistakes."
 date: 2019-7-3
 description:
-image: /assets/images/placeholder-5.jpg
+image: assets/images/jumbotron.jpg
 author: Anand Soni
-tags:
-  - Leadership
-  - Corporate Culture
-  - Introversion
+tags: [Leadership, Corporate Culture, Introversion]
+featured: true
+hidden: false
+categories: [ Life Lessons, Leadership ]
 ---
 
 Let's begin with a question, shall we? What is leadership in its true sense and what does it mean to be a leader? Let's look for an answer in an inspiring tale told by a true leader, one of the most learned, loved and respected Presidents of India, Lt. Dr. APJ Abdul Kalam.

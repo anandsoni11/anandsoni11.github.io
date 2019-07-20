@@ -1,14 +1,14 @@
 ---
 layout: post
-title: The Introvert Professional
+title: "The Introvert Professional"
 date: 2016-7-31
 description:
-image: /assets/images/placeholder-9.jpg
+image: assets/images/12.jpg
 author: Anand Soni
-tags:
-  - Introversion
-  - Extroversion
-  - Professional
+tags: [Introversion, Extroversion, Professional]
+featured: true
+hidden: false
+categories: [ Life Lessons, Personality, Introversion ]
 ---
 *Introversion* is a heavily misunderstood term in our times. An introvert is someone who tends to *turn inwards* more than outwards. Introversion is not synonymous to being shy, timid or to any other word that disparages it. There has been a lot of talk and debate around introversion and extroversion in the past few decades. Though, I must say the world has come a long way from completely abhorring and discarding intoversion (and introverts) but still the path of an introvert isn't all velvety petals in our society. I specifically intend to voice out my belief on this debate when it comes to the path tread by an *introvert professional*. Why focus only on the *introvert professional*? Does this mean anything about *other introverts* having an easy plod through the mud? No. Being a professional, it interests me to talk about what I have seen and experienced around.
 
