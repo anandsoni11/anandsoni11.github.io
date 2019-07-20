@@ -6,7 +6,7 @@ description:
 image: assets/images/introversion-1.jpg
 author: anand
 tags: [Introversion, Extroversion, Professional]
-featured: true
+featured: false
 hidden: false
 categories: [ Life Lessons, Personality, Introversion ]
 ---
