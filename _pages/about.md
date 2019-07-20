@@ -14,7 +14,7 @@ comments: false
 
 <p>To bring this vision to reality, I need help. Your help. If you feel even a little inspired by the contents on this blog and if there is a little nudge inside you to share and teach, I invite you to share this widely and contribute!</p>
 
-<p>If you would like to write here, please get in touch with me. Send me an <b><a href = "mailto: anand.92.soni@gmail.com">email</a></b> with a text draft of your thoughts and I will make sure they are published soon.</p>
+<p><b><i>If you would like to write here, please get in touch with me. Send me an <b><a href = "mailto: anand.92.soni@gmail.com">email</a></b> with a text draft of your thoughts and I will make sure they are published soon.</i></b></p>
 
 <p>A few topic suggestions that you can write about : <b>General life lessons, Productivity, Introversion and personality types, Entrepreneurship, Leadership, Technology.</b> If you have anything that doesn't fall into the above categories, send it to me anyway!</p>
 
