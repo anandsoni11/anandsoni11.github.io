@@ -1,5 +1,5 @@
 # Site/SEO settings
-url: "https://www.anandsoni.in" 
+url: "https://www.anandsoni.in"
 baseurl: ""
 google_analytics:
 name: "Anand Soni"
@@ -28,6 +28,7 @@ authors:
     email: anand.92.soni@gmail.com
     web: https://www.anandsoni.in
     twitter: https://twitter.com/anandsonin
+    medium: https://medium.com/@anandsonin
     description: ""
 
 
