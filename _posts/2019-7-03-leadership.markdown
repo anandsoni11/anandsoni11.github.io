@@ -4,7 +4,7 @@ title: "Leaders, illusions, mistakes."
 date: 2019-7-3
 description:
 image: assets/images/jumbotron.jpg
-author: Anand Soni
+author: anand
 tags: [Leadership, Corporate Culture, Introversion]
 featured: true
 hidden: false

@@ -23,13 +23,13 @@ mailchimp-list: https://anandsoni.us20.list-manage.com/subscribe/post?u=3aa15cf4
 authors:
   anand:
     name: Anand Soni
-    display_name: Anand
-    gravatar:
+    display_name: Anand Soni
+    gravatar: 9f9d682fc69f2e5bfab5602796b71146
     email: anand.92.soni@gmail.com
     web: https://www.anandsoni.in
     twitter: https://twitter.com/anandsonin
     medium: https://medium.com/@anandsonin
-    description: ""
+    description: "Technologist. Loves to write. Born and raised in India. IIT B Alumnus"
 
 
 # Build settings

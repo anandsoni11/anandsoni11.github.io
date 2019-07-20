@@ -4,7 +4,7 @@ title: "One year. Such legacy. Much learning"
 date: 2016-7-16
 description:
 image: assets/images/8.jpg
-author: Anand Soni
+author: anand
 tags: [Learnings, Professional]
 featured: false
 hidden: false

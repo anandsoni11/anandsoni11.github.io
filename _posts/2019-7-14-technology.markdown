@@ -4,7 +4,7 @@ title: "Technology And The Digital Alter Ego"
 date: 2019-7-14
 description:
 image: assets/images/7.jpg
-author: Anand Soni
+author: anand
 tags: [Technology, Internet of Things, Social Media, Relationships, Education]
 featured: true
 hidden: false
