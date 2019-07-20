@@ -7,7 +7,7 @@ image: assets/images/lessons-1.jpg
 author: anand
 tags: [Learnings, Professional]
 featured: false
-hidden: true
+hidden: false
 categories: [ Life Lessons, Corporate Life ]
 ---
 It all started (almost) a year ago, in August 2015. I was about to graduate and had decided to start my career with Intuit India (as a software engineer). Moving out from college to the (professional) world was momentous. It is metaphorical to a kid starting school with a clean slate in his bag, after a few years of playfulness and utter learning at home!
