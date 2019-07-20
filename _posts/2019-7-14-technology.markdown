@@ -3,7 +3,7 @@ layout: post
 title: "Technology And The Digital Alter Ego"
 date: 2019-7-14
 description:
-image: assets/images/7.jpg
+image: assets/images/technology-1.jpg
 author: anand
 tags: [Technology, Internet of Things, Social Media, Relationships, Education]
 featured: true

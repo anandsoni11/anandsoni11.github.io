@@ -3,7 +3,7 @@ layout: post
 title: "The Introvert Professional"
 date: 2016-7-31
 description:
-image: assets/images/12.jpg
+image: assets/images/introversion-1.jpg
 author: anand
 tags: [Introversion, Extroversion, Professional]
 featured: true

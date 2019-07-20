@@ -3,7 +3,7 @@ layout: post
 title: "One year. Such legacy. Much learning"
 date: 2016-7-16
 description:
-image: assets/images/8.jpg
+image: assets/images/lessons-1.jpg
 author: anand
 tags: [Learnings, Professional]
 featured: false

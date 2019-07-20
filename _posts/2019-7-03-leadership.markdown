@@ -3,7 +3,7 @@ layout: post
 title: "Leaders, illusions, mistakes."
 date: 2019-7-3
 description:
-image: assets/images/jumbotron.jpg
+image: assets/images/leadership-2.jpg
 author: anand
 tags: [Leadership, Corporate Culture, Introversion]
 featured: true
