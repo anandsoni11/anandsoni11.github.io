@@ -5,8 +5,8 @@ google_analytics:
 name: "Anand Soni"
 title: "Thoughts. Insights. Life lessons."
 description: ""
-logo: 'assets/images/tai_logo.png'
-favicon: 'assets/images/tai_logo.png'
+logo: 'assets/images/tai_logo_new.png'
+favicon: 'assets/images/favicon.ico'
 include: ["_pages"]
 permalink: /:title/
 
