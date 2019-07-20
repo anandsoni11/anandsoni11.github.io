@@ -4,7 +4,7 @@ title: "The Introvert Professional"
 date: 2016-7-31
 description:
 image: assets/images/12.jpg
-author: Anand Soni
+author: anand
 tags: [Introversion, Extroversion, Professional]
 featured: true
 hidden: false
