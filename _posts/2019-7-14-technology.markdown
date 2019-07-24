@@ -6,7 +6,7 @@ description:
 image: assets/images/technology-1.jpg
 author: anand
 tags: [Technology, Internet of Things, Social Media, Relationships, Education]
-featured: true
+featured: false
 hidden: false
 categories: [ Technology, Social Media, Education ]
 ---

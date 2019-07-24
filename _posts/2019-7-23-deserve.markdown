@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Do You Deserve?"
+title: "Do We Deserve?"
 date: 2019-7-23
 description:
 image: assets/images/deserve-1.jpg
