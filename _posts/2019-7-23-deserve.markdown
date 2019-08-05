@@ -6,7 +6,7 @@ description:
 image: assets/images/deserve-1.jpg
 author: anand
 tags: [Philosophy, Society, Meaning]
-featured: true
+featured: false
 hidden: false
 categories: [ Philosophy ]
 ---
