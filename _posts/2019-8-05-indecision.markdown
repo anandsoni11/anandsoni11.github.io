@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Why failure is far better than indecision"
+title: "Why Do We Need To Be Decisive?"
 date: 2019-8-5
-description: "Indecision can be a poison that kills opportunities"
+description: "And why failure is far better than indecision"
 image: assets/images/indecision-1.jpg
 author: anand
 tags: [Life Lessons, Philosophy, Courage, Success, Failure]
