@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Leisure And The Art Of Change"
-date: 2019-9-9
+date: 2019-9-08
 description: "On boredom, leisure, time and self-transformation "
 image: assets/images/leisure-1.jpg
 author: anand
