@@ -6,7 +6,7 @@ description: "And why failure is far better than indecision"
 image: assets/images/indecision-1.jpg
 author: anand
 tags: [Life Lessons, Philosophy, Courage, Success, Failure]
-featured: true
+featured: false
 hidden: false
 categories: [ Life Lessons, Failure ]
 ---

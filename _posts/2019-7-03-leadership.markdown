@@ -6,7 +6,7 @@ description:
 image: assets/images/leadership-2.jpg
 author: anand
 tags: [Leadership, Corporate Culture, Introversion]
-featured: true
+featured: false
 hidden: false
 categories: [ Life Lessons, Leadership ]
 ---
