@@ -1,0 +1,72 @@
+---
+layout: post
+title: "Shor's Algorithm - A Simple Explanation"
+date: 2019-10-8
+description: "Quantum Computing and Shor's Algorithm"
+image: assets/images/bloch-sphere.png
+author: anand
+tags: [Quantum Computing, Cryptography]
+featured: true
+hidden: false
+categories: [ Algorithms ]
+---
+The eponymous algorithm for integer factorization was formulated by Peter Shor in 1994. The solution proposed by Shor in finding the prime factors of an integer has subsequently found application in quantum computing. Peter Shor was awarded the Gödel Prize for his efforts.
+
+Shor’s algorithm consists of two parts, the first of which is a period finding problem that can be solved on a regular computer. The second part, which is responsible for expediting the speed of computation, involves finding the period using the quantum Fourier transform. Here is a brief overview of the algorithm.
+
+### **Shor's Algorithm**
+**Step 1:** Let m be a random non-zero integer. Use the greatest common divisor (gcd) algorithm for classical computing to find the gcd (N,m).
+
+[gcd is the largest positive integer that divides each of the integers. For example, the gcd of 30 and 12 is 6.]
+
+If, gcd (N,m) = 1, proceed to step 2. Otherwise, a non-trivial solution has been found.
+
+**Step 2:** Find the period P of: m mod N, m^2 mod N, m^3 mod N, m^4 mod N, …
+
+[The modulo operation finds the remainder after one number is divided by another (sometimes called modulus). Given two positive numbers, m and N, m modulo N (abbreviated as m mod N) returns the remainder of the division of m by N.]
+
+**Step 3:** If the period P is odd, go back to step 1 and proceed with another random integer. If P is even, go to the next step.
+
+**Step 4:** Check if: m^(P/2)  + 1 is not equal to 0 mod N. If true, proceed to the next step, otherwise, go to step 1.
+
+**Step 5:** Find the gcd (m^(P/2) -1, N).
+
+The answer is a non-trivial prime factor of N. More importantly, this gives us the key to breaking the RSA cryptosystem.
+
+### **A Simple Explanation**
+
+The algorithm might seem confusing, but it isn’t. Let us try and solve Shor’s algorithm by taking N=91.
+
+**Step 1:** Let us consider a random number 3 such that N-91, m=3
+
+gcd (3,91) = 1  [since they have no common factors]
+
+Therefore, proceed to the next step.
+
+**Step 2:** Find the period P of : 3 mod 91, 3^2 mod 91, 3^3 mod 91, 3^4 mod 91, …
+
+A quantum computer finds the period of the above function by performing a quantum Fourier transform. This relies on the ability of quantum computers to be in multiple states at the same time, thereby allowing the function to be evaluated simultaneously for different values.
+
+In this case, we manually find the period P through repeated long division. When remainder obtained by the modulo function starts repeating, we have found the period of the function.
+
+Here, the remainder returns to 3 after 6 rounds. Hence, P=6.
+
+**Step 3:** Since P = even, we proceed to the next step.
+
+**Step 4:** We check if: m^(P/2)  + 1 is not equal to 0 mod N
+
+Here, 3^(P/2) + 1 = 3^(6/2) + 1 = 3^3 + 1 = 27 + 1 = 28, which is not equal to 0 mod N
+
+**Step 5:** Find a factor q such that q = gcd (m^(P/2) -1, N)
+
+Here, q = gcd (3^(P/2) – 1, N) = gcd (3^(6/2) – 1, 91) = gcd (26, 91) = 13.
+
+Here, we have the non-trivial factor of N=91.
+
+Hence p = 13 , q = 7. RSA has been broken for this example.
+
+However, in real life N will be much larger than 91, making factorisation impossible for classical computers, leave alone solving the period-finding problem by long division. If at all human beings were to manually factorise a 1000-digit number, it would take multiple generations of a family, billions of reams of paper, and an equal number of pencil stubs, to obtain the required factors.
+
+While the intractability of modern cryptography is a cause of great civilisational triumph, the dawn of quantum supremacy could be the undoing of society since almost all facets of life, from communication to commerce, are now conducted online.
+---
+*Credits : The Hindu*
