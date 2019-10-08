@@ -68,5 +68,7 @@ Hence p = 13 , q = 7. RSA has been broken for this example.
 However, in real life N will be much larger than 91, making factorisation impossible for classical computers, leave alone solving the period-finding problem by long division. If at all human beings were to manually factorise a 1000-digit number, it would take multiple generations of a family, billions of reams of paper, and an equal number of pencil stubs, to obtain the required factors.
 
 While the intractability of modern cryptography is a cause of great civilisational triumph, the dawn of quantum supremacy could be the undoing of society since almost all facets of life, from communication to commerce, are now conducted online.
+
 ---
+
 *Credits : The Hindu*
