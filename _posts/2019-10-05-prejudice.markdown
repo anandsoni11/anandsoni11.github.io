@@ -6,7 +6,7 @@ description: "Realizing self-worth despite disparaging opinions and  meaningless
 image: assets/images/worth-1.jpg
 author: anand
 tags: [Self Improvement, Personal Development, Life, Prejudice]
-featured: true
+featured: false
 hidden: false
 categories: [ Self ]
 ---

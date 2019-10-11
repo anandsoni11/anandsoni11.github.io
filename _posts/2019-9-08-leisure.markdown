@@ -6,7 +6,7 @@ description: "On boredom, leisure, time and self-transformation "
 image: assets/images/leisure-1.jpg
 author: anand
 tags: [Self-transformation, Productivity, Time Management]
-featured: true
+featured: false
 hidden: false
 categories: [ Self, Productivity ]
 ---
