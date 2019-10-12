@@ -40,7 +40,7 @@ Conventional computers process information in 'bits' or 1s and 0s, following cla
 
 Quantum computers compute in **'qubits'** (or quantum bits). They exploit the properties of quantum mechanics, the science that governs how matter behaves on the atomic scale. In this scheme of things, processors can be a 1 and a 0 simultaneously, a state achieved by quantum superposition. While this accelerates the speed of computation, a machine with less than a 100 qubits can solve problems with a lot of data that are even theoretically beyond the capabilities of the most powerful supercomputers.
 
-![The Bloch sphere is a geometrical representation of the pure state space of a two-level quantum mechanical system (qubit). Photo Credits - Wikimedia Commons](../assets/images/bloch-sphere.png?raw=true)
+![The Bloch sphere](../assets/images/bloch-sphere.png?raw=true "The Bloch sphere is a geometrical representation of the pure state space of a two-level quantum mechanical system (qubit). Photo Credits - Wikimedia Commons")
 
 Because of [quantum superposition](https://en.wikipedia.org/wiki/Quantum_superposition), a quantum computer - if it works to plan - can mimic several classical computers working in parallel. The ideas governing quantum computers have been around since the 1990s but actual machines have been around since 2011, most notably built by Canadian company D-Wave Systems.
 
@@ -53,7 +53,7 @@ Quantum supremacy refers to quantum computers being able to solve a problem that
 
 The paper (published and taken down, allegedly) describes how Google's quantum processor tackled a random sampling problem - that is, **checking that a set of numbers has a truly random distribution**. This is very difficult for a traditional computer when there are a lot of numbers involved.
 
-![Google's Sycamore. Credits - Google Images](../assets/images/sycamore.jpeg?raw=true)
+![Google's Sycamore](../assets/images/sycamore.jpeg?raw=true "Google's Sycamore. Credits - Google Images")
 
 Google is said to have used a 54-qubit processor, *Sycamore*. Although one of its qubits didn't work, the remaining 53 were [quantum entangled](https://en.wikipedia.org/wiki/Quantum_entanglement) with one another and used to generate a set of binary digits and check their distribution was truly random. The paper calculates the task would have taken Summit, the world's best supercomputer, 10,000 years - but Sycamore did it in 3 minutes and 20 seconds.
 
